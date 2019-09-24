@@ -1,0 +1,9 @@
+C:\_\my\дельфин\102_19\Crypto2\Crypto2\WinHash\bin\Debug\WinHash.exe
+C:\_\my\дельфин\102_19\Crypto2\Crypto2\WinHash\bin\Debug\WinHash.pdb
+C:\_\my\дельфин\102_19\Crypto2\Crypto2\WinHash\obj\Debug\WinHash.csprojAssemblyReference.cache
+C:\_\my\дельфин\102_19\Crypto2\Crypto2\WinHash\obj\Debug\WinHash.Properties.Resources.resources
+C:\_\my\дельфин\102_19\Crypto2\Crypto2\WinHash\obj\Debug\WinHash.csproj.GenerateResource.cache
+C:\_\my\дельфин\102_19\Crypto2\Crypto2\WinHash\obj\Debug\WinHash.csproj.CoreCompileInputs.cache
+C:\_\my\дельфин\102_19\Crypto2\Crypto2\WinHash\obj\Debug\WinHash.exe
+C:\_\my\дельфин\102_19\Crypto2\Crypto2\WinHash\obj\Debug\WinHash.pdb
+C:\_\my\дельфин\102_19\Crypto2\Crypto2\WinHash\obj\Debug\WinHash.FormMain.resources
